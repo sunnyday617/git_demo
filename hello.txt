@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 hello git
-=======
 hello world
->>>>>>> hot-fix
 hello yesterday
