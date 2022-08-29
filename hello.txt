@@ -1,3 +1,6 @@
-hello git123123
-hello world33333
+<<<<<<< HEAD
+hello git
+=======
+hello world
+>>>>>>> hot-fix
 hello yesterday
